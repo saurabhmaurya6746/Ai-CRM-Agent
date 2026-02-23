@@ -75,8 +75,4 @@ Node.js 18+
 
 MySQL 8.0+
 
-Groq API key
-
-
-GitHub: https://github.com/your-username/ai-first-crm
-
+Groq API key 
