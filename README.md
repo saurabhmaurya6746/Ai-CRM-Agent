@@ -73,4 +73,4 @@ Node.js 18+
 
 MySQL 8.0+
 
-Groq API key
+Groq API key placed your own
